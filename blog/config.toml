@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+baseURL = "http://blog.zenghur.info"
 languageCode = "zh-CN"
 title = "shadowself"
 theme = "maupassant"
