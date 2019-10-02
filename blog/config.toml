@@ -33,7 +33,4 @@ disablePathToLower = true
     url = "/about/"
     weight = 4
 
-[taxonomies]
-  category = "categories"
-  tag = "tags"
 
