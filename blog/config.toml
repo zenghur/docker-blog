@@ -1,0 +1,39 @@
+baseURL = "http://localhost"
+languageCode = "zh-CN"
+title = "shadowself"
+theme = "maupassant"
+buildDrafts = true
+googleAnalytics = ""
+disqusShortname = "zenghur"
+summaryLength = 140 
+preserveTaxonomyNames = true
+hasCJKLanguage = true
+enableEmoji = true
+enableRobotsTXT = true
+disablePathToLower = true
+
+[author]
+  name = "zenghur"
+
+[params]
+  author = "zenghur"
+  subtitle = "builder, runner, football, gopher, rust."
+  keywords = ""
+  description = ""
+  busuanzi = true
+
+[params.cc]
+    name = "知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议"
+    link = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 4
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
