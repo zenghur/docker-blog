@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on shadowself</title>
-    <link>http://blog.zenghur.info/categories/</link>
+    <link>https://blog.zenghur.info/categories/</link>
     <description>Recent content in Categories on shadowself</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Wed, 02 Oct 2019 01:29:35 +0800</lastBuildDate>
     
-	<atom:link href="http://blog.zenghur.info/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.zenghur.info/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>系统设计</title>
-      <link>http://blog.zenghur.info/categories/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</link>
+      <link>https://blog.zenghur.info/categories/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</link>
       <pubDate>Wed, 02 Oct 2019 01:29:35 +0800</pubDate>
       
-      <guid>http://blog.zenghur.info/categories/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</guid>
+      <guid>https://blog.zenghur.info/categories/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/</guid>
       <description></description>
     </item>
     
